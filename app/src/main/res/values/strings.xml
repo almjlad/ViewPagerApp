@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">View Pager App</string>
+    <string name="page_title">pageTitle</string>
+    <string name="the_image_did_not_appear">The image did not appear</string>
+</resources>
